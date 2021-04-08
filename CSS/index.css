@@ -1,0 +1,54 @@
+.banner_index{
+    width: 100%;
+    height: 500px;
+    padding: 100px 0px 0px 100px;
+    background-image: url(../IMG/img_banner.jpg);
+    
+}
+
+.caja_izquierda{
+    width: 500px;
+}
+
+.banner_index>{
+        font-size: 40px;
+    color: lightcoral;
+}
+
+.banner_index>.caja_izquierda>p{
+    color: lightcoral;
+}
+.banner_index>.caja_izquierda>h2{
+    color: lightcoral;
+}
+.btn_2{
+    display: block;
+    background-color: aqua;
+    width: 80px;
+    padding: 10px 40px 10px 40px;
+    border-radius: 20px;
+    text-align: center;
+    color: lightcoral;
+    text-decoration: none;
+    font-size: 15px;
+    
+}
+
+.btn_2:hover{
+    width :85px ;
+}
+.btn_1{
+    display: block;
+    background-color: aqua;
+    width: 80px;
+    padding: 10px 40px 10px 40px;
+    border-radius: 20px;
+    text-align: center;
+    color: lightcoral;
+    text-decoration: none;
+    font-size: 15px;
+    
+}
+.btn_1:hover{
+    width :85px ;
+}
